@@ -1,5 +1,3 @@
-The "libft" project at 42 presents several challenges, objectives, and learning opportunities that are essential for students to develop their coding skills.
-
 Objectives |
 - Build a Personal Library: The primary objective is to create a custom C library that re-implements essential functions. This library can be reused in future projects, fostering the development of a robust codebase.
 - Deepen C Knowledge: By coding these basic functions, students gain a deeper understanding of how C works at a low level, including how functions are constructed and optimized.
